@@ -4,4 +4,4 @@ Bu görselde, **C# Eğitim Kampı** kapsamında geliştirilmiş bir Windows Form
 
 ## Uygulama Görseli
 
-![Project Screenshot](./ProjectImages/screenshot.png)
+![Project Screenshot](./ProjectImages/ekran-goruntusu.png)
